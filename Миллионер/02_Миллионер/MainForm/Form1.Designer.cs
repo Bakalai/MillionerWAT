@@ -96,7 +96,7 @@
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(8, 2, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(1143, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(1143, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -106,14 +106,14 @@
             this.новаяИграToolStripMenuItem1,
             this.выходToolStripMenuItem});
             this.играToolStripMenuItem1.Name = "играToolStripMenuItem1";
-            this.играToolStripMenuItem1.Size = new System.Drawing.Size(55, 24);
+            this.играToolStripMenuItem1.Size = new System.Drawing.Size(46, 20);
             this.играToolStripMenuItem1.Text = "Игра";
             // 
             // новаяИграToolStripMenuItem1
             // 
             this.новаяИграToolStripMenuItem1.Name = "новаяИграToolStripMenuItem1";
             this.новаяИграToolStripMenuItem1.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.N)));
-            this.новаяИграToolStripMenuItem1.Size = new System.Drawing.Size(219, 26);
+            this.новаяИграToolStripMenuItem1.Size = new System.Drawing.Size(181, 22);
             this.новаяИграToolStripMenuItem1.Text = "Новая Игра";
             this.новаяИграToolStripMenuItem1.Click += new System.EventHandler(this.новаяИграToolStripMenuItem1_Click);
             // 
@@ -121,7 +121,7 @@
             // 
             this.выходToolStripMenuItem.Name = "выходToolStripMenuItem";
             this.выходToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Q)));
-            this.выходToolStripMenuItem.Size = new System.Drawing.Size(219, 26);
+            this.выходToolStripMenuItem.Size = new System.Drawing.Size(181, 22);
             this.выходToolStripMenuItem.Text = "Выход";
             this.выходToolStripMenuItem.Click += new System.EventHandler(this.выходToolStripMenuItem_Click);
             // 
@@ -132,14 +132,14 @@
             this.удалитьВопросToolStripMenuItem1,
             this.редактироватьВопросToolStripMenuItem1});
             this.администраторскийРежимToolStripMenuItem1.Name = "администраторскийРежимToolStripMenuItem1";
-            this.администраторскийРежимToolStripMenuItem1.Size = new System.Drawing.Size(215, 24);
+            this.администраторскийРежимToolStripMenuItem1.Size = new System.Drawing.Size(173, 20);
             this.администраторскийРежимToolStripMenuItem1.Text = "Администраторский режим";
             // 
             // добавитьВопросToolStripMenuItem1
             // 
             this.добавитьВопросToolStripMenuItem1.Name = "добавитьВопросToolStripMenuItem1";
             this.добавитьВопросToolStripMenuItem1.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.A)));
-            this.добавитьВопросToolStripMenuItem1.Size = new System.Drawing.Size(291, 26);
+            this.добавитьВопросToolStripMenuItem1.Size = new System.Drawing.Size(237, 22);
             this.добавитьВопросToolStripMenuItem1.Text = "Добавить вопрос";
             this.добавитьВопросToolStripMenuItem1.Click += new System.EventHandler(this.добавитьВопросToolStripMenuItem1_Click);
             // 
@@ -147,7 +147,7 @@
             // 
             this.удалитьВопросToolStripMenuItem1.Name = "удалитьВопросToolStripMenuItem1";
             this.удалитьВопросToolStripMenuItem1.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.D)));
-            this.удалитьВопросToolStripMenuItem1.Size = new System.Drawing.Size(291, 26);
+            this.удалитьВопросToolStripMenuItem1.Size = new System.Drawing.Size(237, 22);
             this.удалитьВопросToolStripMenuItem1.Text = "Удалить вопрос";
             this.удалитьВопросToolStripMenuItem1.Click += new System.EventHandler(this.удалитьВопросToolStripMenuItem1_Click);
             // 
@@ -155,7 +155,7 @@
             // 
             this.редактироватьВопросToolStripMenuItem1.Name = "редактироватьВопросToolStripMenuItem1";
             this.редактироватьВопросToolStripMenuItem1.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.E)));
-            this.редактироватьВопросToolStripMenuItem1.Size = new System.Drawing.Size(291, 26);
+            this.редактироватьВопросToolStripMenuItem1.Size = new System.Drawing.Size(237, 22);
             this.редактироватьВопросToolStripMenuItem1.Text = "Редактировать вопрос";
             this.редактироватьВопросToolStripMenuItem1.Click += new System.EventHandler(this.редактироватьВопросToolStripMenuItem1_Click);
             // 
@@ -164,14 +164,14 @@
             this.оПрограммеToolStripMenuItem1.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.правилаИгрыToolStripMenuItem});
             this.оПрограммеToolStripMenuItem1.Name = "оПрограммеToolStripMenuItem1";
-            this.оПрограммеToolStripMenuItem1.Size = new System.Drawing.Size(116, 24);
+            this.оПрограммеToolStripMenuItem1.Size = new System.Drawing.Size(94, 20);
             this.оПрограммеToolStripMenuItem1.Text = "О программе";
             // 
             // правилаИгрыToolStripMenuItem
             // 
             this.правилаИгрыToolStripMenuItem.Name = "правилаИгрыToolStripMenuItem";
             this.правилаИгрыToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.R)));
-            this.правилаИгрыToolStripMenuItem.Size = new System.Drawing.Size(235, 26);
+            this.правилаИгрыToolStripMenuItem.Size = new System.Drawing.Size(194, 22);
             this.правилаИгрыToolStripMenuItem.Text = "Правила игры";
             this.правилаИгрыToolStripMenuItem.Click += new System.EventHandler(this.правилаИгрыToolStripMenuItem_Click);
             // 
@@ -188,14 +188,14 @@
             // 
             this.новаяИграToolStripMenuItem.Name = "новаяИграToolStripMenuItem";
             this.новаяИграToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.N)));
-            this.новаяИграToolStripMenuItem.Size = new System.Drawing.Size(217, 26);
+            this.новаяИграToolStripMenuItem.Size = new System.Drawing.Size(179, 22);
             this.новаяИграToolStripMenuItem.Text = "Новая игра";
             // 
             // Exit
             // 
             this.Exit.Name = "Exit";
             this.Exit.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Q)));
-            this.Exit.Size = new System.Drawing.Size(217, 26);
+            this.Exit.Size = new System.Drawing.Size(179, 22);
             this.Exit.Text = "Выход";
             this.Exit.Click += new System.EventHandler(this.Exit_Click);
             // 
@@ -213,21 +213,21 @@
             // 
             this.добавитьВопросToolStripMenuItem.Name = "добавитьВопросToolStripMenuItem";
             this.добавитьВопросToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.I)));
-            this.добавитьВопросToolStripMenuItem.Size = new System.Drawing.Size(291, 26);
+            this.добавитьВопросToolStripMenuItem.Size = new System.Drawing.Size(237, 22);
             this.добавитьВопросToolStripMenuItem.Text = "Добавить вопрос";
             // 
             // редактироватьВопросToolStripMenuItem
             // 
             this.редактироватьВопросToolStripMenuItem.Name = "редактироватьВопросToolStripMenuItem";
             this.редактироватьВопросToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.E)));
-            this.редактироватьВопросToolStripMenuItem.Size = new System.Drawing.Size(291, 26);
+            this.редактироватьВопросToolStripMenuItem.Size = new System.Drawing.Size(237, 22);
             this.редактироватьВопросToolStripMenuItem.Text = "Редактировать вопрос";
             // 
             // удалитьВопросToolStripMenuItem
             // 
             this.удалитьВопросToolStripMenuItem.Name = "удалитьВопросToolStripMenuItem";
             this.удалитьВопросToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.D)));
-            this.удалитьВопросToolStripMenuItem.Size = new System.Drawing.Size(291, 26);
+            this.удалитьВопросToolStripMenuItem.Size = new System.Drawing.Size(237, 22);
             this.удалитьВопросToolStripMenuItem.Text = "Удалить вопрос";
             // 
             // оПрограммеToolStripMenuItem
@@ -242,16 +242,16 @@
             // 
             this.правилаToolStripMenuItem.Name = "правилаToolStripMenuItem";
             this.правилаToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.R)));
-            this.правилаToolStripMenuItem.Size = new System.Drawing.Size(235, 26);
+            this.правилаToolStripMenuItem.Size = new System.Drawing.Size(194, 22);
             this.правилаToolStripMenuItem.Text = "Правила игры";
             // 
             // groupBox1
             // 
             this.groupBox1.ForeColor = System.Drawing.Color.Yellow;
             this.groupBox1.Location = new System.Drawing.Point(816, 31);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox1.Size = new System.Drawing.Size(325, 81);
             this.groupBox1.TabIndex = 2;
             this.groupBox1.TabStop = false;
@@ -268,7 +268,7 @@
             this.butNewGame.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.butNewGame.ForeColor = System.Drawing.Color.Black;
             this.butNewGame.Location = new System.Drawing.Point(7, 42);
-            this.butNewGame.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.butNewGame.Margin = new System.Windows.Forms.Padding(4);
             this.butNewGame.Name = "butNewGame";
             this.butNewGame.Size = new System.Drawing.Size(100, 59);
             this.butNewGame.TabIndex = 6;
@@ -286,7 +286,7 @@
             this.butExit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.butExit.ForeColor = System.Drawing.Color.Black;
             this.butExit.Location = new System.Drawing.Point(115, 42);
-            this.butExit.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.butExit.Margin = new System.Windows.Forms.Padding(4);
             this.butExit.Name = "butExit";
             this.butExit.Size = new System.Drawing.Size(100, 59);
             this.butExit.TabIndex = 7;
@@ -303,7 +303,7 @@
             this.buttHelpPeopleRoom.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttHelpPeopleRoom.ForeColor = System.Drawing.Color.Black;
             this.buttHelpPeopleRoom.Location = new System.Drawing.Point(1039, 49);
-            this.buttHelpPeopleRoom.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.buttHelpPeopleRoom.Margin = new System.Windows.Forms.Padding(4);
             this.buttHelpPeopleRoom.Name = "buttHelpPeopleRoom";
             this.buttHelpPeopleRoom.Size = new System.Drawing.Size(100, 59);
             this.buttHelpPeopleRoom.TabIndex = 5;
@@ -319,7 +319,7 @@
             this.buttCallFriend.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttCallFriend.ForeColor = System.Drawing.Color.Black;
             this.buttCallFriend.Location = new System.Drawing.Point(929, 49);
-            this.buttCallFriend.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.buttCallFriend.Margin = new System.Windows.Forms.Padding(4);
             this.buttCallFriend.Name = "buttCallFriend";
             this.buttCallFriend.Size = new System.Drawing.Size(100, 59);
             this.buttCallFriend.TabIndex = 4;
@@ -336,7 +336,7 @@
             this.butt50on50.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.butt50on50.ForeColor = System.Drawing.Color.Black;
             this.butt50on50.Location = new System.Drawing.Point(821, 49);
-            this.butt50on50.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.butt50on50.Margin = new System.Windows.Forms.Padding(4);
             this.butt50on50.Name = "butt50on50";
             this.butt50on50.Size = new System.Drawing.Size(100, 59);
             this.butt50on50.TabIndex = 3;
@@ -364,7 +364,7 @@
             this.butAnswer1.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.butAnswer1.ForeColor = System.Drawing.Color.Yellow;
             this.butAnswer1.Location = new System.Drawing.Point(16, 529);
-            this.butAnswer1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.butAnswer1.Margin = new System.Windows.Forms.Padding(4);
             this.butAnswer1.Name = "butAnswer1";
             this.butAnswer1.Size = new System.Drawing.Size(385, 53);
             this.butAnswer1.TabIndex = 10;
@@ -380,7 +380,7 @@
             this.butAnswer2.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.butAnswer2.ForeColor = System.Drawing.Color.Yellow;
             this.butAnswer2.Location = new System.Drawing.Point(16, 593);
-            this.butAnswer2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.butAnswer2.Margin = new System.Windows.Forms.Padding(4);
             this.butAnswer2.Name = "butAnswer2";
             this.butAnswer2.Size = new System.Drawing.Size(385, 53);
             this.butAnswer2.TabIndex = 11;
@@ -395,7 +395,7 @@
             this.butAnswer3.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.butAnswer3.ForeColor = System.Drawing.Color.Yellow;
             this.butAnswer3.Location = new System.Drawing.Point(409, 529);
-            this.butAnswer3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.butAnswer3.Margin = new System.Windows.Forms.Padding(4);
             this.butAnswer3.Name = "butAnswer3";
             this.butAnswer3.Size = new System.Drawing.Size(385, 53);
             this.butAnswer3.TabIndex = 12;
@@ -410,7 +410,7 @@
             this.butAnswer4.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.butAnswer4.ForeColor = System.Drawing.Color.Yellow;
             this.butAnswer4.Location = new System.Drawing.Point(409, 593);
-            this.butAnswer4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.butAnswer4.Margin = new System.Windows.Forms.Padding(4);
             this.butAnswer4.Name = "butAnswer4";
             this.butAnswer4.Size = new System.Drawing.Size(385, 53);
             this.butAnswer4.TabIndex = 13;
@@ -424,7 +424,7 @@
             this.listBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 17.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.listBox1.ForeColor = System.Drawing.Color.Yellow;
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 33;
+            this.listBox1.ItemHeight = 29;
             this.listBox1.Items.AddRange(new object[] {
             "15. 1 000 000",
             "14. 500 000",
@@ -442,16 +442,16 @@
             "2. 200",
             "1. 100"});
             this.listBox1.Location = new System.Drawing.Point(819, 116);
-            this.listBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.listBox1.Margin = new System.Windows.Forms.Padding(4);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(324, 532);
+            this.listBox1.Size = new System.Drawing.Size(324, 526);
             this.listBox1.TabIndex = 14;
             // 
             // pictureBox1
             // 
             this.pictureBox1.BackgroundImage = global::_02_Миллионер.Properties.Resources.callFriend;
             this.pictureBox1.Location = new System.Drawing.Point(7, 118);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(184, 137);
             this.pictureBox1.TabIndex = 15;
@@ -459,11 +459,14 @@
             // 
             // pictureBox2
             // 
+            this.pictureBox2.BackColor = System.Drawing.Color.White;
             this.pictureBox2.BackgroundImage = global::_02_Миллионер.Properties.Resources.Безымянный;
-            this.pictureBox2.Location = new System.Drawing.Point(644, 254);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.pictureBox2.Image = global::_02_Миллионер.Properties.Resources.Безымянный;
+            this.pictureBox2.Location = new System.Drawing.Point(573, 196);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(107, 124);
+            this.pictureBox2.Size = new System.Drawing.Size(185, 188);
             this.pictureBox2.TabIndex = 16;
             this.pictureBox2.TabStop = false;
             // 
@@ -476,7 +479,7 @@
             this.label1.Location = new System.Drawing.Point(3, 258);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(85, 29);
+            this.label1.Size = new System.Drawing.Size(66, 24);
             this.label1.TabIndex = 17;
             this.label1.Text = "label1";
             // 
@@ -489,7 +492,7 @@
             this.label2.Location = new System.Drawing.Point(28, 193);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(0, 20);
+            this.label2.Size = new System.Drawing.Size(0, 16);
             this.label2.TabIndex = 18;
             this.label2.TextAlign = System.Drawing.ContentAlignment.TopRight;
             // 
@@ -512,9 +515,9 @@
             this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.groupBox2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.groupBox2.Location = new System.Drawing.Point(565, 39);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox2.Size = new System.Drawing.Size(243, 166);
             this.groupBox2.TabIndex = 19;
             this.groupBox2.TabStop = false;
@@ -559,7 +562,7 @@
             // progressBar4
             // 
             this.progressBar4.Location = new System.Drawing.Point(33, 127);
-            this.progressBar4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.progressBar4.Margin = new System.Windows.Forms.Padding(4);
             this.progressBar4.Name = "progressBar4";
             this.progressBar4.Size = new System.Drawing.Size(124, 22);
             this.progressBar4.TabIndex = 26;
@@ -567,7 +570,7 @@
             // progressBar3
             // 
             this.progressBar3.Location = new System.Drawing.Point(32, 94);
-            this.progressBar3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.progressBar3.Margin = new System.Windows.Forms.Padding(4);
             this.progressBar3.Name = "progressBar3";
             this.progressBar3.Size = new System.Drawing.Size(125, 22);
             this.progressBar3.TabIndex = 25;
@@ -575,7 +578,7 @@
             // progressBar2
             // 
             this.progressBar2.Location = new System.Drawing.Point(32, 59);
-            this.progressBar2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.progressBar2.Margin = new System.Windows.Forms.Padding(4);
             this.progressBar2.Name = "progressBar2";
             this.progressBar2.Size = new System.Drawing.Size(125, 22);
             this.progressBar2.TabIndex = 24;
@@ -585,7 +588,7 @@
             this.progressBar1.BackColor = System.Drawing.Color.Aqua;
             this.progressBar1.ForeColor = System.Drawing.Color.Aqua;
             this.progressBar1.Location = new System.Drawing.Point(32, 26);
-            this.progressBar1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.progressBar1.Margin = new System.Windows.Forms.Padding(4);
             this.progressBar1.Name = "progressBar1";
             this.progressBar1.Size = new System.Drawing.Size(125, 22);
             this.progressBar1.TabIndex = 23;
@@ -596,7 +599,7 @@
             this.label6.Location = new System.Drawing.Point(7, 128);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(25, 18);
+            this.label6.Size = new System.Drawing.Size(21, 15);
             this.label6.TabIndex = 22;
             this.label6.Text = "D:";
             // 
@@ -606,7 +609,7 @@
             this.label5.Location = new System.Drawing.Point(7, 94);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(25, 18);
+            this.label5.Size = new System.Drawing.Size(20, 15);
             this.label5.TabIndex = 21;
             this.label5.Text = "С:";
             // 
@@ -616,7 +619,7 @@
             this.label4.Location = new System.Drawing.Point(5, 60);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(24, 18);
+            this.label4.Size = new System.Drawing.Size(20, 15);
             this.label4.TabIndex = 20;
             this.label4.Text = "В:";
             // 
@@ -626,7 +629,7 @@
             this.label3.Location = new System.Drawing.Point(7, 30);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(23, 18);
+            this.label3.Size = new System.Drawing.Size(19, 15);
             this.label3.TabIndex = 19;
             this.label3.Text = "А:";
             // 
@@ -636,10 +639,10 @@
             this.label7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label7.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label7.Location = new System.Drawing.Point(444, 252);
+            this.label7.Location = new System.Drawing.Point(353, 248);
             this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(85, 29);
+            this.label7.Size = new System.Drawing.Size(66, 24);
             this.label7.TabIndex = 20;
             this.label7.Text = "label7";
             // 
@@ -658,11 +661,12 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.BackgroundImage = global::_02_Миллионер.Properties.Resources.millioner_1;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ClientSize = new System.Drawing.Size(1143, 655);
             this.Controls.Add(this.labelTheEnd);
             this.Controls.Add(this.label7);
@@ -688,7 +692,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.ShowInTaskbar = false;
